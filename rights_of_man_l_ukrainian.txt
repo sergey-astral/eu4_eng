@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  ROM_SUBJECT_GENERAL_DETAILS:0 "They have $DEV$ Development in $PROVS$ provinces."
  THEY_HAVE_LOANS:0 "They have $NUM|Y$ bank loan(s) that will cost $DUCATS|Y$¤ to repay."
  ATTACKERS:0 "Attackers"
