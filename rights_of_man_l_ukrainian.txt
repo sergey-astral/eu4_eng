@@ -12,7 +12,7 @@
  RESULT_GLORIOUS_VICTORY:0 "Велика перемога"
  RESULT_DECISIVE_VICTORY:0 "Рішуча перемога"
  RESULT_MINOR_VICTORY:0 "Порожня перемога"
- RESULT_MAJOR_VICTORY:0 "Упевнена перемога"
+ RESULT_MAJOR_VICTORY:0 "Впевнена перемога"
  RESULT_NAVAL_VICTORY:0 "Перемога на море"
  RESULT_PYRRHIC_VICTORY:0 "Піррова перемога"
  RESULT_EVERLASTING_DEFEAT:0 "Нищівна поразка"
