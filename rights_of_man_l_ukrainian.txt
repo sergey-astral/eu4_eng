@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  ROM_SUBJECT_GENERAL_DETAILS:0 "Їх рівень розвитку дорівнює $DEV$ при числі провінцій рівному $PROVS$."
  THEY_HAVE_LOANS:0 "Число їх позик дорівнює $NUM|Y$, через що необхідно виплатити $DUCATS|Y$¤."
  PARTICIPANT:0 "Учасник"
